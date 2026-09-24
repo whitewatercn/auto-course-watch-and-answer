@@ -11,5 +11,5 @@
 
 以下codex示例
 ```
-@课程定时答题与签到 https://bjsqypx.haoyisheng.com/qypx/bj/cc.jsp?next=1&course_id=202601016940&cware_id=03
+@课程定时答题与签到 你要处理的课程网站
 ```
